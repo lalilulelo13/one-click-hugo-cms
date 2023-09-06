@@ -1,8 +1,7 @@
 ---
 title: 'Agua e industria: un equilibrio verde y mejor calidad de vida'
 date: 2023-09-04T15:04:10.000Z
-description: >-
-Gestionada de manera eficiente y equitativa este recurso hídrico natural juega un papel fundamental para el desarrollo social y económico sin alterar el ecosistema.
+description: >- Gestionada de manera eficiente y equitativa este recurso hídrico natural juega un papel fundamental para el desarrollo social y económico sin alterar el ecosistema.
 ---
 
 La Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI) lanzó una iniciativa por una “Industria Verde” que proporciona una perspectiva sectorial para una transición global hacia una economía verde dentro de este sector y otros sectores relacionados. 
