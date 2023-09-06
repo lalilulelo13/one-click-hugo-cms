@@ -3,7 +3,7 @@ title: Agua e industria un equilibrio verde y mejor calidad de vida
 date: 2023-09-05T15:04:10.000Z
 description: >-
   -
-image: /img/blog-chemex.jpg
+image: /img/anda-chorro.jpg
 ---
 
 Gestionada de manera eficiente y equitativa este recurso hídrico natural juega un papel fundamental para el desarrollo social y económico sin alterar el ecosistema.
