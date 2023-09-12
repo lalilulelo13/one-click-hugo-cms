@@ -12,16 +12,6 @@ La seguridad alimentaria, la productividad y salud ambiental depende de este vit
 
 Al ser un bien común y derecho humano, la sostenibilidad viene a integrar tres aspectos fundamentales: el aspecto social, el económico y el ambiental. Su acción conjunta facilita el acceso a esta sin comprometer su disponibilidad en un futuro porque el motor más potente del mundo es el AGUA."
 
-intro:
-    heading: "Nuestra misión"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit lacus, vulputate eu suscipit at, rhoncus quis leo. Sed feugiat nisi quis consectetur varius. Phasellus maximus varius arcu eget efficitur. Vivamus consequat sodales tincidunt. Proin sodales scelerisque nulla ac consequat."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit lacus, vulputate eu suscipit at, rhoncus quis leo. Sed feugiat nisi quis consectetur varius. Phasellus maximus varius arcu eget efficitur. Vivamus consequat sodales tincidunt. Proin sodales scelerisque nulla ac consequat."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit lacus, vulputate eu suscipit at, rhoncus quis leo. Sed feugiat nisi quis consectetur varius. Phasellus maximus varius arcu eget efficitur. Vivamus consequat sodales tincidunt. Proin sodales scelerisque nulla ac consequat."
-values:
-    heading: ¿Qué buscamos?
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elit lacus, vulputate eu suscipit at, rhoncus quis leo. Sed feugiat nisi quis consectetur varius. Phasellus maximus varius arcu eget efficitur. Vivamus consequat sodales tincidunt. Proin sodales scelerisque nulla ac consequat..
+
 ---
 
