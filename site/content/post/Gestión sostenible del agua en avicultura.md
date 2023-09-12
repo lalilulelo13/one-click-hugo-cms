@@ -1,5 +1,5 @@
 ---
-title: Agua e industria un equilibrio verde y mejor calidad de vida
+title: Gestión sostenible del agua en avicultura
 date: 2023-09-05T15:04:10.000Z
 description: >-
   -
