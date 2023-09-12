@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://aguaparatodos.net/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
+title = "Agua Para Todos"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
