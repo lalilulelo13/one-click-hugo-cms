@@ -1,28 +1,36 @@
 ---
-title: Gestión sostenible del agua en avicultura
-date: 2023-09-05T15:04:10.000Z
+title: GeGranjas también son fuentes de trabajo
+date: 2023-09-21T15:04:10.000Z
 description: >-
   -
-image: /img/anda-chorro.jpg
+image: /img/avir-poultry-comfort.jpg
 ---
 
-Gestionada de manera eficiente y equitativa este recurso hídrico natural juega un papel fundamental para el desarrollo social y económico sin alterar el ecosistema.
+Los empleos y un medio ambiente saludable son claves para la agroindustria, la cual contribuye una mejor calidad de vida en las comunidades.
 
-La Organización de las Naciones Unidas para el Desarrollo Industrial (ONUDI) lanzó una iniciativa por una “Industria Verde” que proporciona una perspectiva sectorial para una transición global hacia una economía verde dentro de este sector y otros sectores relacionados. 
+Las granjas en general han sido etiquetas como fuentes de contaminación, pero muchas han logrado cambiar esa percepción gracias a tecnologías amigables y sustentables con los ecosistemas.
 
-El objetivo está orientado a diferenciar el uso del agua y otros recursos naturales y la contaminación industrial, así como a promover el crecimiento de los sectores productivos y empresariales más sostenibles dentro de los países en vías desarrollo o en transición.
+Un informe de la OIT hace una estimación sobre los puestos de trabajos creados en la economía verde, los cuales superan los 24 millones de empleos a nivel mundial, un enfoque que esta haciendo cambiar a las prácticas 
+agroindustriales, entre estos las granjas.
 
-Cabe señalar que la “Iniciativa Industria Verde” de la ONUDI fue diseñada para ayudar a los países en vías de desarrollo y a las economías en transición afín propiciar oportunidades asociadas a un desarrollo industrial en armonía con los ecosistemas. https://www.unido.org/sites/default/files/2012-09/Presentaci%C3%B3n%20de%20la%20Plataforma%20para%20una%20industria%20verde__0.pdf
+Hoy día, este rubro productivo se encuentra en una transición de pasar de una granja convencional a una sostenible, garantizando con ello un equilibrio ecológico y al mismo tiempo contribuye a reducir la pobreza y la vulnerabilidad de los hogares y las comunidades.
 
-A nivel mundial, el desarrollo industrial sostenible está dentro de ese proceso de transformación y al igual que otros sectores productivos, abandera la preservación de los recursos naturales, asumiendo el compromiso de mejorar la calidad de vida de las personas con fuentes de trabajo sostenibles.
+Países como Ecuador, por ejemplo, la industria avícula aporta el 2% del PIB y se generan más de 200 mil empleos formales.
 
-Por lo tanto, la mayoría de industrias han reorientado sus patrones de producción hacia un consumo más sostenible del agua, evitando la sobreexplotación y la contaminación, esto con las mejoras de la infraestructura y la gestión de recursos hídricos.
+En Centroamérica, la industria avícola es una de las más competitivas en varios países y solo en Costa Rica se producen 140 millones de kilos de carne de pollo anuales, lo cual genera más de 10 mil empleos directos y poco más de 50 mil indirectos. 
 
-Además, estos sectores productivos de la sociedad son asesorados para que las empresas rediseñen sus productos de tal manera que contengan menos materia prima.
-En lo que respecta al uso del agua, las industrias promueven una producción más limpia y prácticas sostenibles que contribuyan a la transición de cero vertidos de aguas residuales.
+La demanda que percibe esta actividad productiva es uno de los principales productos avícolas y los lleva a desarrollas sistemas más sostenibles para su rentabilidad y mantener el respeto a los recursos naturales. 
 
-Cuidar este preciado líquido implica grandes inversiones del Estado, lo que significa otra carga económica para los gobiernos , por lo que el trabajo en conjunto con las organizaciones y la misma empresa son claves para su preservación a través el desarrollo sostenible.
+En El Salvador, según datos del Ministerio de Agricultura y Ganadería, la producción avícola es autosuficiente y garantiza el suministro del mercado local; genera cerca de 80,000 empleos directos e indirectos y es clave en la economía nacional. 
 
-En El Salvador, el sector industrial está consciente que el agua escasea a nivel mundial y es por ello que  trabaja para mejorar sus procesos de tratamiento de aguas residuales. Esto incluye invertir en mejores instalaciones de tratamiento de aguas residuales e invertir en tecnologías que les permitan reutilizar y reciclar este tipo de aguas. 
+Para su operatividad industrial las granjas avícolas de este país deben cumplir ciertos requisitos, entre ellos los relacionados a permisos ambientales relacionado con el agua para cubrir la demanda en la operatividad.
 
-Asimismo, contribuir a mejorar la calidad de vida de las comunidades de su entorno y trabajar de la mano con ellos para buscar un equilibrio ambiental integral.
+El permiso exploratorio para la perforación de pozo que se exige es para asegurarse que esta no se intercepte con los radios de captura ni los radios de influencia de pozos propiedad de ANDA y sistemas rurales cercanos.
+
+Por lo tanto, las granjas autorizadas por las autoridades están en la obligación de 
+
+Tratar las aguas residuales con trato especial y una compensación ambiental en el área donde será instalada. Dichas disposiciones permiten que tanto la actividad productiva como los empleados desarrollen sus actividades en ambientes verdes.
+
+Para las instituciones de cualquier país, es importante que la agroindustria y el resto de los rubros que favorecen el desarrollo económico también beneficien los ecosistemas para combatir el cambio climático.
+
+Al ser una fuente de empleos directos e indirectos, las granjas contribuyen a reducir la tasa de desocupación que en la región centroamericana ronda los 7.9%, una la tasa de ocupación de 57, 2 por ciento, y la tasa de participación en la fuerza de trabajo de 62,1, según la OIT.
