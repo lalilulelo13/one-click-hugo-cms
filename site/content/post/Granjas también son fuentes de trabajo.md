@@ -1,5 +1,5 @@
 ---
-title: GeGranjas también son fuentes de trabajo
+title: Granjas también son fuentes de trabajo
 date: 2023-09-21T15:04:10.000Z
 description: >-
   -
