@@ -3,7 +3,7 @@ title: ¿Por qué es importante que la industria trate las aguas residuales?
 date: 2023-10-17T15:04:10.000Z
 description: >-
   -
-image: /img/shutterstock_787761682-scaled.avif
+image: /img/residous.jpg
 ---
 
 Aparte de ser un requisito indispensable para operar, su tratamiento evita su contaminación, garantizando la calidad de las fuentes de aguas superficiales y subterráneas.
