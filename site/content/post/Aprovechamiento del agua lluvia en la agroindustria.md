@@ -3,7 +3,7 @@ title: Aprovechamiento del agua lluvia en la agroindustria
 date: 2023-11-09T15:04:10.000Z
 description: >-
   -
-image: /imgagua-de-lluvia-1.jpeg
+image: /GettyImages-904003352.jpg
 ---
 
 El agua es indispensable para operar y dentro de sus iniciativas amigables con el medio ambiente está el uso del agua lluvia en los procesos y consumir su propia energía.
