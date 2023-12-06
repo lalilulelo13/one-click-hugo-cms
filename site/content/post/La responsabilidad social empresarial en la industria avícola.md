@@ -3,7 +3,7 @@ title: La responsabilidad social empresarial en la industria avícola.
 date: 2023-12-05T15:04:10.000Z
 description: >-
   -
-image: /poultry-species.webp
+image: /persona-da-de-comer-a-un-pollo-864x576.jpg
 ---
 
 Una producción avícola sostenible requiere de una gestión empresarial transparente y ética, que garantice el equilibrio entre el crecimiento económico, el cuidado del medio ambiente y el bienestar social.
