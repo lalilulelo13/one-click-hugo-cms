@@ -1,5 +1,5 @@
 ---
-title: Avícola Salvadoreña: Estudios técnicos ambientales avalan la reducción de impacto en Suchitoto.
+title: Avícola Salvadoreña Estudios técnicos ambientales avalan la reducción de impacto en Suchitoto.
 date: 2024-01-04T15:04:10.000Z
 description: >-
   -
