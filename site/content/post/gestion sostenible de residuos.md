@@ -1,5 +1,5 @@
 ---
-title: Industria Avícola: Estrategias para una Gestión Sostenible de Residuos y Conservación Ambiental
+title: Industria Avícola Estrategias para una Gestión Sostenible de Residuos y Conservación Ambiental
 date: 2024-02-07T15:04:10.000Z
 description: >-
   -
