@@ -1,5 +1,5 @@
 ---
-title: Uso eficiente del agua en Avícola Salvadoreña: Compromiso con la Sostenibilidad.
+title: Uso eficiente del agua en Avícola Salvadoreña, Compromiso con la Sostenibilidad.
 date: 2024-07-03T15:04:10.000Z
 description: >-
   -
