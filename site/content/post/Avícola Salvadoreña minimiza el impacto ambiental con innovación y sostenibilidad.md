@@ -3,7 +3,7 @@ title: Avícola Salvadoreña minimiza el impacto ambiental con innovación y sos
 date: 2024-07-16T15:04:10.000Z
 description: >-
   -
-image: /img/418_Analisis_NIR_ABVISTA-1.png.webp
+image: /img/industria-avicola (1).jpg
 ---
 
 Optimizar los recursos hídricos en sus granjas es una prioridad para la empresa y bajo este enfoque impulsa una innovadora producción seca junto a la reducción de vertidos.
