@@ -3,7 +3,7 @@ title: Avícola Salvadoreña, Innovación y Sostenibilidad en armonía con el me
 date: 2024-07-10T15:04:10.000Z
 description: >-
   -
-image: /img/industria-avicola (1).jpg
+image: /img/shutterstock_427195957-scaled.jpg
 ---
 
 La empresa ha integrado diversas tecnologías que le permite el uso eficiente de recursos esenciales como el agua y la energía.
