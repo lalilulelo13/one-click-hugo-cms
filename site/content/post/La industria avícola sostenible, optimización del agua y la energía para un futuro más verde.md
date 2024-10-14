@@ -1,5 +1,5 @@
 ---
-title: La industria avícola sostenible: optimización del agua y la energía para un futuro más verde.
+title: La industria avícola sostenible, optimización del agua y la energía para un futuro más verde.
 date: 2024-09-16T15:04:10.000Z
 description: >-
   -
